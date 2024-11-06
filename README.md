@@ -18,15 +18,16 @@ Ethers.js: Ethereum interaction library
 Alchemy/Infura: For blockchain access
 
 Installation
+
 Clone the Repository:
 
-```git clone https://github.com/yourusername/krypt.git
-cd krypt```
+```git clone https://github.com/yourusername/krypt.git```
+```cd krypt```
 
 Install Dependencies:
 
-```cd client
-npm i```
+```cd client```
+```npm i```
 
 Compile and Deploy the Smart Contract:
 
