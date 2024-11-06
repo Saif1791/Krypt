@@ -18,6 +18,7 @@ Ethers.js: Ethereum interaction library
 Alchemy/Infura: For blockchain access
 
 Installation
+
 Clone the Repository:
 
 ```git clone https://github.com/yourusername/krypt.git
